@@ -1,0 +1,17 @@
+
+아래의 프로그램들을 순서대로 관리자 권한으로 실행 시키시면 됩니다.
+
+1.  "Setup__MODULE_LINKER\setup.exe"
+2.  Linker_Path.bat
+3.  "Setup__SATELLITE_6P\setup.exe"
+4.  "Setup__LICENCE_6P\setup.exe"
+
+바탕화면에 있는 아래의 Icon를 실행
+  SUI__LKG5000_6P.exe
+  EQP__LKG5000_6P.exe
+
+
+주의) LK-G5000 Driver는 센서엡체에서 받은 Driver로 설치하세요.
+  "LK Navigator 2 (LK-G5000 Series).zip" 은 이전 버전일 수 있습니다. 
+  
+  
