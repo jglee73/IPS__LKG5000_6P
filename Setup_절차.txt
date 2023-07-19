@@ -4,7 +4,7 @@
 1.  "Setup__MODULE_LINKER\setup.exe"
 2.  Linker_Path.bat
 3.  "Setup__SATELLITE_6P\setup.exe"
-4.  "Setup__LICENCE_6P\setup.exe"
+4.  "Update__LICENCE_6P (2023_07_19)\setup.exe"
 
 바탕화면에 있는 아래의 Icon를 실행
   SUI__LKG5000_6P.exe
