@@ -2,9 +2,16 @@
 아래의 프로그램들을 순서대로 관리자 권한으로 실행 시키시면 됩니다.
 
 1.  "Setup__MODULE_LINKER\setup.exe"
-2.  Linker_Path.bat
-3.  "Setup__SATELLITE_6P\setup.exe"
-4.  "Update__LICENCE_6P (2023_07_19)\setup.exe"
+  * 해당 프로그램은 C Drive에 설치됩니다.
+2.  "Setup__SATELLITE_6P\setup.exe"
+  * 해당 프로그램은 D Drive에 설치됩니다.
+3.  "UPDATE__LKG5000_6P (최신날짜)\Update_Satellite.exe"
+  # 해당 실행하면 수행되는 내용
+    1) 최신 등록된 Licence Key 들이 등록됩니다.
+	  주의) Licence Key는 Wi-Fi 옵션을 켜야 인식 됩니다.
+    2) RPM 측정 프로그램이 실행되는데 필요한 Local Path가 등록됩니다.
+    3) RPM 측정 프로그램에 추가된 기능들이 자동 업데이트 됩니다.
+
 
 바탕화면에 있는 아래의 Icon를 실행
   SUI__LKG5000_6P.exe
