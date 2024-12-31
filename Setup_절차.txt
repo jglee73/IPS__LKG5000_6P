@@ -5,7 +5,7 @@
   * 해당 프로그램은 C Drive에 설치됩니다.
 2.  "Setup__SATELLITE_6P\setup.exe"
   * 해당 프로그램은 D Drive에 설치됩니다.
-3.  "UPDATE__LKG5000_6P (최신날짜)\Update__M_Linker.exe"
+3.  "UPDATE__LICENCE_6P (최신날짜)\Update__M_Linker.exe"
   # 해당 실행하면 수행되는 내용
     1) 최신 등록된 Licence Key 들이 등록됩니다.
 	  주의) Licence Key는 Wi-Fi 옵션을 켜야 인식 됩니다.
